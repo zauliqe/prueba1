@@ -1,1 +1,2 @@
 Holaa mundo soy Zeus y este es mi primera prueba con Git.
+Dia 2 aprendiendo git.
